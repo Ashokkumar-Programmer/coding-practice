@@ -1,9 +1,9 @@
 # coding-practice
-#Practiced Programs in Java
+# Practiced Programs in Java
 
 This repository contains my Java practice programs, including solutions to various coding challenges and exercises focused on improving problem-solving, data structures, and algorithmic skills.
 
-#Connect with Me
+# Connect with Me
 
 LinkedIn:
 https://www.linkedin.com/in/ashok-kumar-94b22b211/
